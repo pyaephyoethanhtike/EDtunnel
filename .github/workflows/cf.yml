@@ -1,4 +1,4 @@
-name: ⛅ CF Worker
+name: ⛅ CF Second Test
 on:
   # docs.github.com/en/actions/managing-workflow-runs/manually-running-a-workflow
   # docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows#workflow_dispatch
